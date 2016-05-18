@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\cytonExampleGUIPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\exampleWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\jointControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\build\cytonExampleGUIPlugin_automoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\exampleWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\cytonExampleGUIPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E6261A63-7EA4-4D2A-AE80-BFA9D54EE2F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{302061BF-C662-4E35-98D9-B7A9D05B5312}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Program Files (x86)\Robai\Cyton Gamma 300R2 Viewer_4.X\cyton\examples\src\cytonExampleGUIPlugin\build\CMakeFiles\afad12d12e5dcadbcd32e47bef794fd7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A668EE00-FB68-4CBA-A881-8AF6AEEFFEFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
